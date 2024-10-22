@@ -1,2 +1,7 @@
-# nsfw-api
-A Python API that collects Rule 34 images with web scraping according to their tags. Made for study and training purposes.
+# Potuguês
+
+Ei, não pense que sou esquisito, eu só queria treinar web scraping e criação de API's e acabei fazendo isso.
+
+# English
+
+Hey, don't think I'm a weirdo, I just wanted to train in web scraping and creating APIs and I ended up doing this. I'm a good boy 😣
